@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Le Wagon grad
+After obtaining a Master's degree in Information Systems Management and gaining initial experience in the IT field as a business analyst, I decided to pivot towards a more technical path. That's why I recently completed the Le Wagon Web Development Bootcamp. Now, I am actively seeking a position as a junior software engineer.
 <!--
 **HeloiseLeb/HeloiseLeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
