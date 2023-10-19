@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-After obtaining a Master's degree in Information Systems Management and gaining initial experience in the IT field as a business analyst, I decided to pivot towards a more technical path. That's why I recently completed the Le Wagon Web Development Bootcamp. Now, I am actively seeking a position as a junior software engineer.
+After completing a Master's in Information Systems Management and gaining initial experience in the IT world as a project manager, I wanted to acquire additional technical skills by learning coding. This would enable me to better understand and communicate with developers. That's why I recently I have just completed the Le Wagon Web Development Bootcamp and am now actively seeking a position as a project manager.
 <!--
 **HeloiseLeb/HeloiseLeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
